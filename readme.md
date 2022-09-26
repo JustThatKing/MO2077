@@ -135,6 +135,8 @@ on the top right and a big run button next to it.
 Ensure it is set to `Cyberpunk 2077` by selecting it in the dropdown
 box and then hitting the run button. Due to how it is deploying the files, you may have to click "Run" twice. This is normal. 
 
+CET is bound to the ' key. You can change it from the menu once in game if you wish. 
+
 # Updating
 
 If this Modlist receives an update please check the Changelog before doing
