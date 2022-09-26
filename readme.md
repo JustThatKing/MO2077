@@ -152,7 +152,7 @@ will be deleted. Your downloads folder will not be touched! That means if you ha
 Updating is like installing. You only have to make sure that you select the same
 path and tick the _overwrite existing Modlist_ button.
 
-# Explaination of how to recreate this
+# Manual Instructions
 
 Somewhen soon tm.
 
