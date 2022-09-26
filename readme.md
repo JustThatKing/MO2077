@@ -38,6 +38,8 @@ Known mods with this issue are:
 - Appearance Menu Mod
 - Simple Flashlight
 
+For now I have included a couple of mods in a "Proof this works" section. Please feel free to remove them if you wish, I will be removing them from the list once I feel that point has been made. 
+
 I will not provide support on how to mod Cyberpunk, however I will answer questions explaining why this works where MO2 generally doesn't. 
 Please seek general modding support in the numerous other places where people can teach more about modding. 
 
