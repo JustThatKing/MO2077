@@ -1,6 +1,7 @@
 # MO2077 - MO2 for Cyberpunk 2077, but not in the way you're thinking.
 - [MO2077](#MO2077)
 - [It Just Works. No. Really*.](#introduction)
+- [Prove It](#proof)
 - [Installation](#installation)
   - [Cleaning out the game files/Vortex](#clean-install)
   - [Steam/GOG Config](#storefront-config)
@@ -38,6 +39,8 @@ With all testing done to date, it has worked with only one issue. Mods with a sc
 Known mods with this issue are:
 - Appearance Menu Mod
 - Simple Flashlight
+
+# Proof
 
 For now I have included a couple of mods in a "Proof this works" section. Please feel free to remove them if you wish, I will be removing them from the list once I feel that point has been made. 
 
@@ -127,6 +130,9 @@ Wabbajack will not work with pirated versions of the game. The list works with g
 ## Post-Installation
 
 ### Starting the Game
+
+**If** you want to use Appearance Menu Mod, I have included it to prove it functions with this setup. Simply open the "Game Folder Files" folder in your modlist install location, and copy the archive files into /Cyberpunk 2077/archive/pc/mod. 
+If you do not wish to use this mod or test it, you can ignore these files. 
 
 Head over to the installation folder and locate an executable named
 ModOrganizer.exe and launch it. Once its launched there will be a dropdown box
