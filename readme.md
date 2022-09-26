@@ -3,7 +3,7 @@
 - [Prove It](#proof)
 - [Installation](#installation)
   - [Cleaning out the game files/Vortex](#clean-install)
-  - [Steam/GOG Config](#storefront-config)
+  - [Steam/GOG Config](#steam/gog-config)
     - [Disable Overlays](#disable-overlays)
   - [Change Update Behavior](#change-update-behavior)
   - [Using Wabbajack](#using-wabbajack)
@@ -52,7 +52,7 @@ Please seek general modding support in the numerous other places where people ca
 This list assumes that you have a clean install of Cyberpunk 2077. There may be unintended issues if you have multiple mods either installed manually or deployed by Vortex.
 Please delete manually added files & verify game integrety before installing. For Vortex, please purge the installed mods, you will be able to redeploy them later if you choose to. 
 
-## Steam Config
+## Steam/Gog Config
 
 ### Disable any game Overlays
 
