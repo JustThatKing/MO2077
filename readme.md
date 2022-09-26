@@ -25,7 +25,7 @@
 It works. Really*.
 
 Cyberpunk ordinarily doesn't work with Mod Organiser 2, it breaks some very key mods making modding on it, foolhardy at best. Worry not, as we have worked out a solution. 
-MO2077 addresses 99% of the core issues that exist when modding Cyberpunk with MO2. Namely CET and Redscript having errors. This is through using an amazing tool made for Skyrim modding, all be it with some tweaking. 
+MO2077 addresses 99% of the core issues that exist when modding Cyberpunk with MO2. Namely CET and Redscript having errors. This is through using an amazing tool made for Skyrim modding, albeit with some tweaking. 
 Root Builder is the solution. Effectively, this plugin for MO2 allows specific folders to be automatically be copied into the game folders when launching the game, and be automatically cleaned up once the game closes. 
 
 The file structures used are as so:
