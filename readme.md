@@ -1,5 +1,5 @@
 # MO2077 - MO2 for Cyberpunk 2077, but not in the way you're thinking.
-- [MO2 fir Cyberpunk?](#MO2-for-Cyberpunk?)
+- [MO2 for Cyberpunk?](#MO2-for-Cyberpunk?)
 - [Prove It](#proof)
 - [Installation](#installation)
   - [Cleaning out the game files/Vortex](#clean-install)
@@ -23,7 +23,8 @@
 - [Contributing](#contributing)
 - [Changelog](#changelog)
 
-# MO2 for Cyberpunk? It works. Really*.
+# MO2 for Cyberpunk? 
+It works. Really*.
 
 Cyberpunk ordinarily doesn't work with Mod Organiser 2, it breaks some very key mods making modding on it, foolhardy at best. Worry not, as we have worked out a solution. 
 MO2077 addresses 99% of the core issues that exist when modding Cyberpunk with MO2. Namely CET and Redscript having errors. This is through using an amazing tool made for Skyrim modding, all be it with some tweaking. 
