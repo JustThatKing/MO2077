@@ -24,16 +24,12 @@
 # MO2 for Cyberpunk? 
 It works. Really*.
 
-Cyberpunk ordinarily doesn't work with Mod Organiser 2, it breaks some very key mods making modding on it, foolhardy at best. Worry not, as we have worked out a solution. 
-MO2077 addresses 99% of the core issues that exist when modding Cyberpunk with MO2. Namely CET and Redscript having errors. This is through using an amazing tool made for Skyrim modding, albeit with some tweaking. 
-Root Builder is the solution. Effectively, this plugin for MO2 allows specific folders to be automatically be copied into the game folders when launching the game, and be automatically cleaned up once the game closes. 
-
-The file structures used are as so:
-Original archive folder mods are deployed via MO2's VFS, this works in 99% of cases for mods of this type. 
-Other folders (bin,engine, r6, red4ext & Redmods) are classified as "Root" folders and deployed prior to runtime by being automatically copied into the game folder. 
+Mod Organizer 2 and Cyberpunk 2077 aren't normally compatible - using MO2 on the game leads to CET and Redscript errors. We've managed to address this through a plugin called Root Builder that allows specific folders to be automatically be copied into the game folders when launching the game, and be automatically cleaned up once the game closes.
+Root builder requires a specific folder structure. The archive folder of mods is MO2 deploys via its VFS,  this works in 99% of cases for mods of this type.
+The other folders are copied before runtime, namely: bin, engine, r6, red4ext and Redmods. This way your game folder remains intact when not run via MO2.
 This means under all practical purposes, these mods are installed manually, but with the convenience of a mod manager. 
 
-With all testing done to date, it has worked with only one issue. Mods with a scripted check of archives require those archives to be manually installed outside of MO2.
+While most mods will work, there are a few that do some archive checking and thus require manual installation outside of MO2. Known mods with this issue are:
 Known mods with this issue are:
 - Appearance Menu Mod
 - Simple Flashlight
