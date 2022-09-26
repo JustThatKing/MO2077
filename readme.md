@@ -1,6 +1,5 @@
 # MO2077 - MO2 for Cyberpunk 2077, but not in the way you're thinking.
-- [MO2077](#MO2077)
-- [It Just Works. No. Really*.](#introduction)
+- [MO2077](#MO2-for-Cyberpunk?)
 - [Prove It](#proof)
 - [Installation](#installation)
   - [Cleaning out the game files/Vortex](#clean-install)
