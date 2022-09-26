@@ -32,6 +32,7 @@ Root Builder is the solution. Effectively, this plugin for MO2 allows specific f
 The file structures used are as so:
 Original archive folder mods are deployed via MO2's VFS, this works in 99% of cases for mods of this type. 
 Other folders (bin,engine, r6, red4ext & Redmods) are classified as "Root" folders and deployed prior to runtime by being automatically copied into the game folder. 
+This means under all practical purposes, these mods are installed manually, but with the convenience of a mod manager. 
 
 With all testing done to date, it has worked with only one issue. Mods with a scripted check of archives require those archives to be manually installed outside of MO2.
 Known mods with this issue are:
