@@ -121,6 +121,8 @@ them. In this case just wait till I update the Modlist.
 You need to have launched the game once before WJ will locate it. Additionally
 Wabbajack will not work with pirated versions of the game. The list works with games from Steam, GOG and Epic Game Store.
 
+Support in [CDPR Modlists Discord](https://discord.gg/YE2VzkEwEj)
+
 ## Post-Installation
 
 ### Starting the Game
@@ -204,7 +206,7 @@ Mod Authors
 
 # Contact
 
-Contact me in the CDPR](LINK_TBC)
+Contact me in the [CDPR Modlists Discord](https://discord.gg/YE2VzkEwEj)
 
 **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**. I am available for support in the linked discord server. 
 
