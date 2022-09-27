@@ -191,8 +191,9 @@ Special Thanks
 
 - **_YOU_** for actually reading the readme.
 - Xanza
-- Delta
-- brahmax
+- Delta 
+- brahmax 
+- Crit
 
 Mod Authors
 
@@ -203,7 +204,7 @@ Mod Authors
 
 # Contact
 
-Contact me in the support discord [TBC](LINK_TBC)
+Contact me in the CDPR](LINK_TBC)
 
 **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**. I am available for support in the linked discord server. 
 
