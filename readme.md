@@ -82,7 +82,7 @@ _Auto Update Games_.
 
 ### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe`
+Grab the latest release of Wabbajack from [here](https://www.nexusmods.com/site/mods/403) and place the `Wabbajack.exe`
 file in `X:\Wabbajack`
 
 ### Downloading and Installing
