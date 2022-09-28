@@ -44,7 +44,7 @@ Please seek general modding support in the numerous other places where people ca
 # Installation
 
 This list assumes that you have a clean install of Cyberpunk 2077. There may be unintended issues if you have multiple mods either installed manually or deployed by Vortex.
-Please delete manually added files & verify game integrety before installing. For Vortex, please purge the installed mods, you will be able to redeploy them later if you choose to. 
+Please delete manually added files & verify game integrity before installing. For Vortex, please purge the installed mods, you will be able to redeploy them later if you choose to. 
 
 ## Steam/Gog Config
 
