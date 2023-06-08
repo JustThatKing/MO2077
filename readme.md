@@ -29,10 +29,11 @@ Root builder requires a specific folder structure. The archive folder of mods is
 The other folders are copied before runtime, namely: bin, engine, r6, red4ext and Redmods. This way your game folder remains intact when not run via MO2.
 This means under all practical purposes, these mods are installed manually, but with the convenience of a mod manager. 
 
-While most mods will work, there are a few that do some archive checking and thus require manual installation outside of MO2. Known mods with this issue are:
+No found exceptions as of MO2077 v1.0.7...so that's nice, tell me if you find one.
+~~ ~~While most mods will work, there are a few that do some archive checking and thus require manual installation outside of MO2. Known mods with this issue are:
 Known mods with this issue are:
-- Appearance Menu Mod
-- Simple Flashlight
+~~ ~~- Appearance Menu Mod
+~~ ~~- Simple Flashlight
 
 # Proof
 
