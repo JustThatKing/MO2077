@@ -31,8 +31,8 @@ This means under all practical purposes, these mods are installed manually, but 
 
 No found exceptions as of MO2077 v1.0.7...so that's nice, tell me if you find one.
 ~~While most mods will work, there are a few that do some archive checking and thus require manual installation outside of MO2. Known mods with this issue are:
-Known mods with this issue are:
-~- Appearance Menu Mod
+Known mods with this issue are: ~
+~- Appearance Menu Mod ~
 ~- Simple Flashlight~
 
 # Proof
