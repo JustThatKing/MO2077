@@ -186,7 +186,8 @@ MO2077 - made by:
 Special Thanks
 
 - **_YOU_** for actually reading the readme.
-- Xanza
+- Xanza - For working out the initial Root Builder mapping and implementation
+- Rfuzzo - For fixing CET to work nicely with MO2's UVFS
 - Delta 
 - brahmax 
 - Crit
